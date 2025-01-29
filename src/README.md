@@ -1,0 +1,1 @@
+# Este é o meu primeiro projeto usando HTML e CSS. O objetivo é criar uma página web simples que exiba minhas habilidades básicas em desenvolvimento web.
